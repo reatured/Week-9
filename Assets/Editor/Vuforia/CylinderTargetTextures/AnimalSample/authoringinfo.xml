@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VuforiaUnityInfo version="7.0">
+    <TargetSet version="5.0" toolVersion="2.8.0">
+        <CylinderTarget name="SodaCan" version="3.0" targetId="dc5461c729d7405192d304eb77027d12" sideLength="95.000000" topDiameter="53.000000" bottomDiameter="53.000000" sideImage="SodaCan.Body_scaled.jpg" topImage="SodaCan.Top_scaled.jpg" bottomImage="SodaCan.Bottom_scaled.jpg"/>
+    </TargetSet>
+</VuforiaUnityInfo>
