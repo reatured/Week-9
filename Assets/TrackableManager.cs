@@ -74,9 +74,9 @@ public class TrackableManager : MonoBehaviour
 
             distance = Vector3.Distance(vT1Pos, vT2Pos);
 
-            Debug.Log(distance);
+            //Debug.Log(distance);
 
-            Debug.Log("tracking both objects");
+            //Debug.Log("tracking both objects");
             line.enabled = true;
             var points = new Vector3[2];
             points[0] = vT1Pos;
